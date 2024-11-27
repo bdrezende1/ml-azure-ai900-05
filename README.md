@@ -3,11 +3,7 @@ Abordaremos o Copiloto e exploraremos os recursos da OpenAI, concentrando-nos ta
 
 ---
 
-Vamos lá, vou reescrever em primeira pessoa, assim fica mais fácil para quem está lendo se identificar com o processo.
-
----
-
-### Laboratório de IA Generativa com Azure
+## Laboratório de IA Generativa com Azure
 
 **Passo 1: Criar uma Conta no Azure**
 Primeiro, preciso criar uma conta no Azure, caso ainda não tenha uma. Acesso [o site do Azure](https://azure.microsoft.com/) e clico em "Iniciar gratuitamente". Sigo as instruções para criar minha conta.
@@ -82,6 +78,12 @@ Os filtros de conteúdo são usados para garantir que o conteúdo gerado pela IA
 **Passo 3: Testar Filtros de Conteúdo**
 Testo os filtros de conteúdo gerando várias saídas do modelo e verificando se os filtros estão funcionando conforme o esperado.
 
+---
+
+**Laboratórios Microsoft**
+
 https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/12-generative-ai.html
+
 https://microsoftlearning.github.io/mslearn-ai-studio/Instructions/01-Explore-ai-studio.html
+
 https://microsoftlearning.github.io/mslearn-ai-studio/Instructions/06-Explore-content-filters.html
